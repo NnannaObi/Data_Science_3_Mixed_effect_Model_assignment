@@ -329,4 +329,4 @@ plot(fitted(model_3),residuals_mixed_model_3)
 
 shapiro.test(residuals_mixed_model_3)
 
-# The residual show that there is no constant variance across fitted values.This indicates heteroscedasticity
+# The residuals of the models show no constant variance across fitted values.This indicates heteroscedasticity
